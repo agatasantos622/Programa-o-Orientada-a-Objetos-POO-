@@ -98,7 +98,23 @@ Ao final, um arquivo parcelas_orcamento.csv será gerado automaticamente.
 
 A aplicação também pode ser executada por meio de uma interface gráfica web, desenvolvida com Streamlit, permitindo maior usabilidade e interação visual.
 
-O navegador será aberto automaticamente no endereço:
+Passos:
+
+Instale o Streamlit (caso ainda não tenha):
+
+pip install streamlit
+
+
+Execute a aplicação gráfica:
+
+streamlit run streamlit_app.py
+
+
+O navegador será aberto automaticamente com link temporário:
+
+http://localhost:8501
+
+ou no link já disponibilizado em web:
 
 https://orcamentosimobiliarios.streamlit.app/
 
