@@ -3,6 +3,7 @@ Programação Orientada a Objetos (POO)
 Projeto criado para a disciplina Algorithmic Thinking & Introduction to Object-Oriented Programming – Fevereiro/2026.
 
 🎬 Vídeo de Apresentação
+
 A apresentação completa do projeto, contendo a explicação do objetivo, estrutura do código, execução via terminal, interface gráfica com Streamlit e geração do arquivo CSV, está disponível no link abaixo:
 
 🔗 https://www.linkedin.com/posts/%C3%A1gata-santos-628b8935a_python-poo-aprendizado-activity-7426455816016412672-nz3M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmE7EABUKiP6kx_EaoHd56PscMBNW3hYIY
